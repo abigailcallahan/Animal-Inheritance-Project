@@ -1,4 +1,3 @@
-
 public class AnimalInheritance
 	{
 		static Animal[] zoo = new Animal[4];
