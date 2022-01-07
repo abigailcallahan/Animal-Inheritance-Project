@@ -9,5 +9,6 @@ public class Bat extends Mammal
 			public void makesNoise()
 				{
 				System.out.println("The " + name + " says, \"Click.\"");
+				
 				}
 		}
